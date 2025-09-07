@@ -5,8 +5,9 @@ from collections import defaultdict
 # count=0
 # maxi=10**(-18)
 
+#s=int(input())
+
 # for i in range(len(arr)):
-#     count=arr[i]
 #     for j in range(i,len(arr)):
 #         count+=arr[j]
 #         if(s==count):
