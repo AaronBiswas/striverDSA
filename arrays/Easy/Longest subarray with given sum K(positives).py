@@ -12,7 +12,7 @@ from collections import defaultdict
 #         count+=arr[j]
 #         if(s==count):
 #             maxi=max((j-i)+1,maxi)
-#         elif(count>s):
+#         elif(count>s):                #The array contains only +ve elements so this condition is implemented
 #             break
 
 #Better Solution (also works for negative integers and is the optimal case for it)

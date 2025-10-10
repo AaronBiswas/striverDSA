@@ -6,7 +6,7 @@
 
 # var=-1
 
-# for i in range(1,n):
+# for i in range(1,n+1):
 #     check=False
 #     for j in arr:
 #         if(i==j):
@@ -37,7 +37,8 @@
 # n=int(input())
 
 # for i in arr:
-#     var=(n*(n+1))//2
+#     add+=i
+# var=(n*(n+1))//2
 # print(var-add)
 
 #optimal 2
